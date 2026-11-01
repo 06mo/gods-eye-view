@@ -38,6 +38,16 @@ Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic,
 
 ---
 
+## 📖 About
+
+God's Eye View is a browser-based 3D globe built with Vite and CesiumJS, using photorealistic 3D tiles.
+It layers live public data on the globe: aircraft, ships, satellites, earthquakes, traffic, and public cameras.
+A realtime AI agent adds hands-free voice control.
+Core data sources work without API keys; optional keys can be added in the app (see `DATA_SOURCES.md`).
+The repo also includes Pinokio install scripts and QA scripts under `scripts/`.
+
+---
+
 ## 🌍 Why This Exists
 
 God's Eye View brings public signals into one explorable globe. Track the world live. Talk to it. Break it. Extend it.
